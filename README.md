@@ -9,3 +9,5 @@ The format for the polynomial is standardized as a string representation of the 
 6x^4-2x^3+5x-10
 
 In this example it is assumed that there is no term for x^2 (coefficient is 0).  The cubed term and the offset are both negative.  The first term is positive as it does not begin with "-".
+
+Why "Early" ?  This was written in Java 7 prior to taking any formal courses on Java.
